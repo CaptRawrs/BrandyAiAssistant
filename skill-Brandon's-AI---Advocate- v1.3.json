@@ -1,0 +1,4636 @@
+{
+  "intents": [
+    {
+      "intent": "CommonQuestions",
+      "examples": [
+        {
+          "text": ":animal"
+        },
+        {
+          "text": ":CommonQuestions"
+        },
+        {
+          "text": "If you were an animal which would you be?"
+        },
+        {
+          "text": "Interview Questions"
+        },
+        {
+          "text": "Let me ask you some questions"
+        },
+        {
+          "text": ":satisfied"
+        },
+        {
+          "text": "Tell me about brandons weaknesses"
+        },
+        {
+          "text": "What are three positive things your last boss would say about Brandon?"
+        },
+        {
+          "text": "What are your 5 year goals?"
+        },
+        {
+          "text": "What are your goals?"
+        },
+        {
+          "text": "What are your strengths"
+        },
+        {
+          "text": "What are your weaknesses?"
+        },
+        {
+          "text": "What can brandon do that others can not?"
+        },
+        {
+          "text": "What can you do for us that other candidates can't?"
+        },
+        {
+          "text": "When are you most satisfied in a job?"
+        },
+        {
+          "text": "When were you most satisfied in your job?"
+        },
+        {
+          "text": "Why should I hire Brandon?"
+        },
+        {
+          "text": "Why should we hire brandon?"
+        },
+        {
+          "text": ":(Why should we hire you)"
+        }
+      ],
+      "description": "Common Interview Questions"
+    },
+    {
+      "intent": "Credentials",
+      "examples": [
+        {
+          "text": "Ai foundations"
+        },
+        {
+          "text": "Brandon's Credentials"
+        },
+        {
+          "text": "Brandons Credientials"
+        },
+        {
+          "text": "Certificates"
+        },
+        {
+          "text": "Credentials"
+        },
+        {
+          "text": "Credientails"
+        },
+        {
+          "text": "Credinetials"
+        },
+        {
+          "text": ":Google"
+        },
+        {
+          "text": "IBM garage"
+        },
+        {
+          "text": ":Scrum"
+        },
+        {
+          "text": "What are brandon's Credentials"
+        },
+        {
+          "text": "What Certificates does Brandon have"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DownloadResume",
+      "examples": [
+        {
+          "text": "Can I have a copy of Brandon's Resume?"
+        },
+        {
+          "text": "Can I have Brandon Resume"
+        },
+        {
+          "text": "Download Resume"
+        },
+        {
+          "text": "I want a copy of Brandon's resume"
+        },
+        {
+          "text": "I want to download Brandons Resume"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "GoodBye",
+      "examples": [
+        {
+          "text": "by"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "c ya"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "talk to you soon"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Sup"
+        },
+        {
+          "text": "yo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Main_Menu",
+      "examples": [
+        {
+          "text": "back"
+        },
+        {
+          "text": "Home"
+        },
+        {
+          "text": "main menu"
+        },
+        {
+          "text": "Main_menu"
+        },
+        {
+          "text": "Menu"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Recommends",
+      "examples": [
+        {
+          "text": "Bernard Bell"
+        },
+        {
+          "text": "Letters of Recommendation"
+        },
+        {
+          "text": "Recommends"
+        },
+        {
+          "text": "Tell me who vouches for Brandon"
+        },
+        {
+          "text": "Tom Collopy"
+        },
+        {
+          "text": "What do people have to say about Brandon"
+        },
+        {
+          "text": "Who Recommends Brandon"
+        },
+        {
+          "text": "Who vouches for Brandon"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SkillSet",
+      "examples": [
+        {
+          "text": "Brandons Skillet"
+        },
+        {
+          "text": "Brandon's Skillset"
+        },
+        {
+          "text": "Communication"
+        },
+        {
+          "text": "Full list"
+        },
+        {
+          "text": "How is brandon a Self starter?"
+        },
+        {
+          "text": "Now tell me about Agile"
+        },
+        {
+          "text": "Other Skills"
+        },
+        {
+          "text": "Self Starter"
+        },
+        {
+          "text": "Skillsets"
+        },
+        {
+          "text": "Technical Skills"
+        },
+        {
+          "text": "Tell me about Brandon's skillset"
+        },
+        {
+          "text": "Tell me about his project management experience"
+        },
+        {
+          "text": "What are Brandon's Skills"
+        },
+        {
+          "text": "What is Bradon Good at"
+        },
+        {
+          "text": "What skills does brandon have"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SomethingElse",
+      "examples": [
+        {
+          "text": "Option 4"
+        },
+        {
+          "text": "Tell me something else"
+        },
+        {
+          "text": "What Else can you tell me about Brandon"
+        },
+        {
+          "text": "What else do you know"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thank_You",
+      "examples": [
+        {
+          "text": "appreciate it"
+        },
+        {
+          "text": "cheers"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "than you"
+        },
+        {
+          "text": "thx"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Workfor",
+      "examples": [
+        {
+          "text": "Innovative Thinking"
+        },
+        {
+          "text": "Loves Work"
+        },
+        {
+          "text": "Passion for AI"
+        },
+        {
+          "text": "Tell me more about why Brandon would be a good fit"
+        },
+        {
+          "text": "Tell me why you we should hire brandon"
+        },
+        {
+          "text": "Why should we hire Brandon"
+        },
+        {
+          "text": "Why would Brandon be a good hire"
+        },
+        {
+          "text": "Why would brandon make a good hire"
+        },
+        {
+          "text": ":WorkFor"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Certificates",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "AI Foundations",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Design Thinking",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Google Project Management",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "IBM Garage",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Scrum Master",
+          "synonyms": [
+            " PSM I"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Scrum Product Owner",
+          "synonyms": [
+            "PSPO I"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wharton",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Companies",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "IBM",
+          "synonyms": [
+            "ibm"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Credentials",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Certificates",
+          "synonyms": [
+            "Certificates"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Google",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "IBM",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Leadership",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Quantic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Scrum",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "InterviewQuestions",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Animal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Goals",
+          "synonyms": [
+            "achieve",
+            "goal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "positive",
+          "synonyms": [
+            "say about brandon",
+            "Three positive things your boss"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "satisfied",
+          "synonyms": [
+            "Content",
+            "Happy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Weaknesses",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Why are you special",
+          "synonyms": [
+            "Can not do",
+            "other candidates cannot",
+            "Strengths "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Why should we hire you",
+          "synonyms": [
+            "hire Brandon"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "MenuHeader",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "CommonQuestions",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Credentials",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Main Menu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Recommendations",
+          "synonyms": [
+            "suggestions",
+            "vouched",
+            "vouches"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Resume",
+          "synonyms": [
+            "Resume Download"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Skillset",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "WorkFor",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Reasons",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Data and analytics",
+          "synonyms": [
+            "Data"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Innovative Thinking",
+          "synonyms": [
+            "curious",
+            "innovative thinker",
+            "Innovative way of thinking"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Loves Work",
+          "synonyms": [
+            "Love of work",
+            "loves work"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Passion for AI",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Recommendations",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Bernard Bell",
+          "synonyms": [
+            "Berned"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tom Collopy",
+          "synonyms": [
+            "Tom"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Skills",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Agile",
+          "synonyms": [
+            "Agile Methodologies",
+            "Design Thinking",
+            "Scrum"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Communication",
+          "synonyms": [
+            "communicate",
+            "communicating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Full List",
+          "synonyms": [
+            "Full list"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Management",
+          "synonyms": [
+            "Product",
+            "Product Management",
+            "Project Management"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Self-Starter",
+          "synonyms": [
+            "Self Starter"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "AI-Missunderstandings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing and asking questions like you would a human."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "If you are stuck you can say \"Take me to Main Menu\" and I will take us back to the start!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_9_1625252660823",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1625158667361",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_10_1625158667362"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1626117865744",
+      "event_name": "input",
+      "dialog_node": "handler_10_1626117865751"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! Absolutely I would love to tell you about Brandon's skillset. But first, what can I call you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_6_1626360291726",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1626360291768",
+      "previous_sibling": "handler_5_1626360291768"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1626360412867",
+      "context": {
+        "Recommendations": "@Recommendations"
+      },
+      "conditions": "@Recommendations",
+      "event_name": "input",
+      "dialog_node": "handler_1_1626360412868"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1626360545106",
+      "context": {
+        "undefined": "conversation_start"
+      },
+      "conditions": "conversation_start",
+      "event_name": "input",
+      "dialog_node": "handler_1_1626360545106"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1625250975954",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_13_1625250975954"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1625786864521",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_13_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_12_1625250975954",
+      "event_name": "focus",
+      "dialog_node": "handler_14_1625250975954",
+      "previous_sibling": "handler_13_1625250975954"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_12_1625786864521",
+      "event_name": "focus",
+      "dialog_node": "handler_14_1625786864521",
+      "previous_sibling": "handler_13_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_15_1625250975954",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_16_1625250975954"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_15_1625786864521",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_16_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_15_1625250975954",
+      "event_name": "focus",
+      "dialog_node": "handler_17_1625250975954",
+      "previous_sibling": "handler_16_1625250975954"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_15_1625786864521",
+      "event_name": "focus",
+      "dialog_node": "handler_17_1625786864521",
+      "previous_sibling": "handler_16_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1625250975955",
+      "event_name": "input",
+      "dialog_node": "handler_19_1625250975955"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1625786864521",
+      "event_name": "input",
+      "dialog_node": "handler_19_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1625250975955",
+      "event_name": "focus",
+      "dialog_node": "handler_20_1625250975955",
+      "previous_sibling": "handler_19_1625250975955"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_19_1625758438820",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_20_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1625786864521",
+      "event_name": "focus",
+      "dialog_node": "handler_20_1625786864521",
+      "previous_sibling": "handler_19_1625786864521"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_19_1625758438820",
+      "event_name": "focus",
+      "dialog_node": "handler_21_1625758438820",
+      "previous_sibling": "handler_20_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_22_1625758438820",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_23_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_22_1626712842477",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_23_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_22_1625758438820",
+      "event_name": "focus",
+      "dialog_node": "handler_24_1625758438820",
+      "previous_sibling": "handler_23_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_22_1626712842477",
+      "event_name": "focus",
+      "dialog_node": "handler_24_1626712842477",
+      "previous_sibling": "handler_23_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_25_1625370995619",
+      "event_name": "input",
+      "dialog_node": "handler_26_1625370995619"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_25_1625758438820",
+      "event_name": "input",
+      "dialog_node": "handler_26_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_25_1626712842477",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_26_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_25_1625370995619",
+      "event_name": "focus",
+      "dialog_node": "handler_27_1625370995619",
+      "previous_sibling": "handler_26_1625370995619"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_25_1625758438820",
+      "event_name": "focus",
+      "dialog_node": "handler_27_1625758438820",
+      "previous_sibling": "handler_26_1625758438820"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_25_1626712842477",
+      "event_name": "focus",
+      "dialog_node": "handler_27_1626712842477",
+      "previous_sibling": "handler_26_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_28_1626712842477",
+      "event_name": "input",
+      "dialog_node": "handler_29_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_28_1626712842477",
+      "event_name": "focus",
+      "dialog_node": "handler_30_1626712842477",
+      "previous_sibling": "handler_29_1626712842477"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1625069302274",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_3_1625069302274"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_34_1625251483278",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_35_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_34_1625251483278",
+      "event_name": "focus",
+      "dialog_node": "handler_36_1625251483278",
+      "previous_sibling": "handler_35_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_37_1625251483278",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_38_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_37_1625251483278",
+      "event_name": "focus",
+      "dialog_node": "handler_39_1625251483278",
+      "previous_sibling": "handler_38_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_40_1625251483278",
+      "event_name": "input",
+      "dialog_node": "handler_41_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_8_1625158667361",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1625158667362",
+      "previous_sibling": "handler_10_1625158667362"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_5_1625158907482",
+      "event_name": "input",
+      "dialog_node": "handler_4_1625158907482"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! Absolutely I would love to tell you about Brandon's skillset. But first, what can I call you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_5_1626360412867",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1626360412868",
+      "previous_sibling": "handler_1_1626360412868"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_40_1625251483278",
+      "event_name": "focus",
+      "dialog_node": "handler_42_1625251483278",
+      "previous_sibling": "handler_41_1625251483278"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_41_1626715759427",
+      "context": {
+        "Skills": "@Skills < 0"
+      },
+      "conditions": "@Skills < 0",
+      "event_name": "input",
+      "dialog_node": "handler_42_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_41_1626715759427",
+      "event_name": "focus",
+      "dialog_node": "handler_43_1626715759427",
+      "previous_sibling": "handler_42_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_44_1626715759427",
+      "context": {
+        "Skills": "@Skills > 0"
+      },
+      "conditions": "@Skills > 0",
+      "event_name": "input",
+      "dialog_node": "handler_45_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are there any other skills you would like to learn about?\n1 - Project Management\n2 - Agile Methodologies\n3 - Self Starter\n4 - Communication \n5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_44_1626715759427",
+      "event_name": "focus",
+      "dialog_node": "handler_46_1626715759427",
+      "previous_sibling": "handler_45_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_47_1626715759427",
+      "event_name": "input",
+      "dialog_node": "handler_48_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_47_1626715759427",
+      "event_name": "focus",
+      "dialog_node": "handler_49_1626715759427",
+      "previous_sibling": "handler_48_1626715759427"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1626117865744",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1626117865751",
+      "previous_sibling": "handler_10_1626117865751"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1626360291726",
+      "context": {
+        "Skills": "@Skills:Agile"
+      },
+      "conditions": "@Skills:Agile",
+      "event_name": "input",
+      "dialog_node": "handler_5_1626360291768"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! My name is Brandy, I am an IBM Watson Powered Chatbot that was created to assist Brandon and tell you about what makes him a true asset to your company! <br> But I am heading ahead of myself! What is your name?:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_2_1626360545106",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1626360545106",
+      "previous_sibling": "handler_1_1626360545106"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1625254726493",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1625254726494",
+      "previous_sibling": "handler_7_1625254726494"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Absolutely, Brandon is a jack-of-all-trades with a diverse set of skills that make him an excellent choice for solving complex problems that require a person to make disparate connections and uncover hide gems of opportunity that drive innovation!! <br>Let's drive a little deeper though, and tell some funny stories of the adventure of Brandon Coates, we are also going to poke fun at him along the way. Just don't tell him, he is sensitive to people poking fun at him!<br>1 - Project Management2 - Agile Methodologies3 - Self Starter4 - Communication 5 - What the full list? Wow.... well it's a lot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_1_1625069302274",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1625069302274",
+      "previous_sibling": "handler_3_1625069302274"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1625158907482",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1625158907482",
+      "previous_sibling": "handler_4_1625158907482"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_5_1625254726493",
+      "event_name": "input",
+      "dialog_node": "handler_7_1625254726494"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1625258118324",
+      "context": {
+        "Certificate": "@Certificates"
+      },
+      "conditions": "@Certificates",
+      "event_name": "input",
+      "dialog_node": "handler_8_1625258118333"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "IBM Credentials \n\nAI Found\nIBM Garage\nIBM Design Thinking"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1625258118324",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1625258118333",
+      "previous_sibling": "handler_8_1625258118333"
+    },
+    {
+      "type": "standard",
+      "title": "Question - What are your goals?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:Goals || $Interviewquestions:goals",
+      "dialog_node": "node_10_1625786864521",
+      "previous_sibling": "node_8_1625786864521"
+    },
+    {
+      "type": "folder",
+      "title": "Chitchat",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1621539070551",
+      "previous_sibling": "node_5_1626364013424"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice talking to you today. We hope you visit our $city store"
+              },
+              {
+                "text": "Have a great day!"
+              },
+              {
+                "text": "Goodbye."
+              },
+              {
+                "text": "Nice talking to you today. We hope you visit our $city store"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1621539070551",
+      "conditions": "#GoodBye",
+      "dialog_node": "node_1_1621540131747",
+      "previous_sibling": "node_4_1621539602434"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Self-Starter",
+      "output": {},
+      "parent": "node_15_1625069208436",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Skills:Self-Starter",
+      "dialog_node": "node_1_1625164367353",
+      "previous_sibling": "node_7_1625090252168"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendations - Menu",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Recommends || @MenuHeader:Recommendations",
+      "digress_in": "not_available",
+      "dialog_node": "node_1_1625250975953",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_15_1625069208436"
+    },
+    {
+      "type": "standard",
+      "title": "Common Interview Questions - Menu",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#CommonQuestions || @MenuHeader:CommonQuestions",
+      "digress_in": "not_available",
+      "dialog_node": "node_1_1625786864518",
+      "previous_sibling": "node_23_1625251483277"
+    },
+    {
+      "type": "standard",
+      "title": "Companies to work for! - SAS",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@MenuHeader:WorkFor && $Company:SAS",
+      "digress_in": "not_available",
+      "dialog_node": "node_14_1625758438818",
+      "previous_sibling": "node_1_1625786864518"
+    },
+    {
+      "type": "standard",
+      "title": "Skill Set - Menu",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#SkillSet || @MenuHeader:Skillset",
+      "digress_in": "not_available",
+      "dialog_node": "node_15_1625069208436",
+      "digress_out": "allow_all",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Passion For Ai",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Brandon work is more than about just showing up for the 9-5 and then checking out. Work is about being given the opportunity to solve complex and interesting problems that can improve the lives of people on a global scale. Working at SAS would allow Brandon the opportunity to work on projects we is passionate about, create value in various industries, while also giving him opportunities to explore the different fascinates of AI.\n<br>\nWorking on what he passionate about is important because when Brandon gets to work on projects that he's passionate about he performs at his peak. He is dedicated and conscientious, he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n<br>\nWorking at SAS would allow Brandon to explore the implementation of Ai in many areas such as business forecasting, utilities, and customer service, etc. He wants to get involved in leading AI projects in new and innovative ways that can create value for clients in a massive way. Brandon feels that from his point of view, no company provides him with the opportunity to make a greater impact than SAS."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_14_1625758438818",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_14_1625758438818"
+      },
+      "conditions": "@Reasons:(Passion for AI) && $Company:SAS",
+      "dialog_node": "node_15_1625758438820",
+      "previous_sibling": "node_16_1625758438820"
+    },
+    {
+      "type": "standard",
+      "title": "Curiosity and Innovative Thinking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is a curious and innovative thinker who enjoys pushing asking big questions like \"Can we use AI to reduce the amount of low-value work?\" then testing out a few proofs of concepts to test feasibility. This drive has pushed Brandon to develop personal projects like me \"Brandy\" a proof of concept Ai chatbot that is designed to advocate for potential Candidates, ideas, or beliefs. This passion for finding new ways to solve problems is something that would benefit SAS, which works to use AI, NLP, and Machine learning to improve the lives of their customers!\n<br>\nFor instance, everyday managers are required to answer questions about how to perform basic processes, either because they are new employees or because of forgetfulness. What if SAS gave managers the ability to easily create chatbots like me that would give simple instructions to basic processes. Even if this saved a manager just one hour a day answering how-to emails, the company would save an incredible $18,250+ per manager each year. This could mean millions of dollars a year in savings, and millions more as time is shifted to more valuable work!\n<br>\nIt's this kind of innovative thinking that makes Brandon the type of employee who adds value every day, on every project he works on!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_14_1625758438818",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_14_1625758438818"
+      },
+      "conditions": "@Reasons:(Innovative Thinking) && $Company:SAS",
+      "dialog_node": "node_16_1625758438820"
+    },
+    {
+      "type": "standard",
+      "title": "Data and Analytics Minded",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is also a very data and analytics-minded person, who prefers to make his decision based on the data he has collected. He learned to make decisions this way after running an e-commerce business that requires him to analyze large amounts of search data and utilize that data to drive revenue for the business. What Brandon really loves about data though is seeing how Machine Learning & Deep Learning can uncover hidden insights from disparate data points.\n<br>\nIt is this love for using data to drive business decisions that lead him to apply to SAS, a leader in Data Analytics, Machine Learn, and using Ai applications. He hopes that working at SAS will allow him to utilize his data, analytics, and Ai skills in a real-world application to drive business value and improve the lives of people from all over the world. \n<br>\nWhat Brandon finds that he really admires about SAS is how they constantly look to improve their products and service through the use of data. Over time, this led to the evolution of one of their core product SAS Viya which is used to drive value by quickly transforming raw data into operational insights. Allowing clients to see the result of their data projects faster, than they could have with any other data analytics company!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_14_1625758438818",
+      "context": {},
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_14_1625758438818"
+      },
+      "conditions": "@Reasons:(Data and analytics) && $Company:SAS",
+      "dialog_node": "node_17_1625758438820",
+      "previous_sibling": "node_15_1625758438820"
+    },
+    {
+      "type": "standard",
+      "title": "Companies to work for! - IBM",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@MenuHeader:WorkFor && $Company:IBM",
+      "dialog_node": "node_17_1626712842476",
+      "previous_sibling": "node_14_1625758438818"
+    },
+    {
+      "type": "standard",
+      "title": "Curiosity and Innovative Thinking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is a curious and innovative thinker who enjoys pushing asking big questions like \"Can we use AI to reduce the amount of low-value work?\" then testing out a few proofs of concepts to test feasibility. This drive has pushed Brandon to develop personal projects like me \"Brandy\" a proof of concept Ai chatbot that is designed to advocate for potential Candidates, ideas, or beliefs. This passion for finding new ways to solve problems would benefit IBM, which works to use AI, NLP, and Machine learning to improve the lives of their customers!\n<br>\nFor instance, everyday managers are required to answer questions about how to perform basic processes, either because they are new employees or because of forgetfulness. What if IBM gave managers the ability to easily create chatbots like me to provide simple instructions to basic processes. Even if this saved a manager just one hour a day answering how-to emails, the company would save an incredible $18,250+ per manager each year. The saving from this AI implementation could mean millions of dollars a year in savings and millions more as time is shifted to more valuable work!\n<br>\nThis kind of innovative thinking makes Brandon the type of employee who adds value every day on every project he works on!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_17_1626712842476",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_17_1626712842476"
+      },
+      "conditions": "@Reasons:(Innovative Thinking) && $Company:IBM",
+      "dialog_node": "node_18_1626712842477"
+    },
+    {
+      "type": "standard",
+      "title": "Passion For Ai",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon's work is more than just showing up for the 9-5 and then checking out. Work is about being allowed to solve complex and interesting problems that can improve people's lives on a global scale. Working at IBM would enable Brandon to work on projects we are passionate about, create value in various industries while also giving him opportunities to explore the different fascinates of AI.\n<br>\nWorking on what he is passionate about is essential because when Brandon gets to work on projects he's passionate about, he performs at his peak. He is dedicated and conscientious; he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n<br>\nWorking at IBM would allow Brandon to explore the implementation of Ai in many areas such as business forecasting, utilities, and customer service, etc. He wants to lead AI projects in new and innovative ways that can massively create value for clients. Brandon feels that no company provides him with the opportunity to make a greater impact than IBM! \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_17_1626712842476",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_17_1626712842476"
+      },
+      "conditions": "@Reasons:(Passion for AI) && $Company:IBM",
+      "dialog_node": "node_19_1626712842477",
+      "previous_sibling": "node_18_1626712842477"
+    },
+    {
+      "type": "standard",
+      "title": "Data and Analytics Minded",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is also a very data and analytics-minded person who prefers to make decisions based on his collected data. He learned to make decisions this way after running an e-commerce business that required him to analyze large amounts of search data and utilize that data to drive revenue for his business. Brandon loves seeing how Machine Learning & Deep Learning can uncover hidden insights from disparate data points.\n<br>\nThis love for using data to drive business decisions leads him to apply to IBM, a leader in Data Analytics, Machine Learn, and using Ai applications. He believes that working at IBM will allow him to utilize his data, analytics, and Ai analytic skills to drive business value and improve people's lives worldwide. \n<br>\nBrandon finds that he admires about IBM is how they constantly look to improve their products and service through the use of data. Such as the Watson Assistant, the platform that I was created on! Watson Assistant is more than just a cute trick though, It can be used to significantly reduce the amount of non-value creating tasks that employees have to do every day. Such as answering pointless emails; this gives them time to work on real value add projects.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_17_1626712842476",
+      "context": {},
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_17_1626712842476"
+      },
+      "conditions": "@Reasons:(Data and analytics) && $Company:IBM",
+      "dialog_node": "node_20_1626712842477",
+      "previous_sibling": "node_19_1626712842477"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendation - Tom",
+      "output": {},
+      "parent": "node_1_1625250975953",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Recommendations:(Tom Collopy)",
+      "dialog_node": "node_2_1625250975954"
+    },
+    {
+      "type": "standard",
+      "title": "IBM AI Foundations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legend has it that it was in the AI Foundations course from IBM that I was born from the realization that chatbots were cool.\n<br>\nThe legend goes like this: Well Brandon was creating a (significantly less interesting AI) to give information about a flower shop, Brandon realized AI chatbots could be used to answer repeatedly asked questions from co-workers who could not seem to remember a 3-step process, or they could be used to advocate for a cause by answer commonly questions. Really there are endless uses that AI could be used for that would drive value both professionally and personally. So I was created as an evergreen project for him to gain hands-on experience with AI and advocate for him after 15-minute interviews. \n<br>\nAnd since that day I have been working with Brandon to become smarter and more adept at my Job."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_24_1625251483278",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_24_1625251483278"
+      },
+      "conditions": "@Certificates:(AI Foundations) || $Certificates:(AI Foundations)",
+      "dialog_node": "node_2_1625261053269"
+    },
+    {
+      "type": "standard",
+      "title": "Question - What are your weaknesses?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:Weaknesses || $Interviewquestions:weaknesses",
+      "dialog_node": "node_2_1625786864521"
+    },
+    {
+      "type": "standard",
+      "title": "Credentials - Menu",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Credentials || @MenuHeader:Recommendations",
+      "digress_in": "not_available",
+      "dialog_node": "node_23_1625251483277",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1625250975953"
+    },
+    {
+      "type": "standard",
+      "title": "Question - Why should we hire you?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:(Why should we hire you) ||  $Interviewquestions:(Why should we hire you)",
+      "dialog_node": "node_23_1625787671030",
+      "previous_sibling": "node_10_1625786864521"
+    },
+    {
+      "type": "standard",
+      "title": "Credential - IBM",
+      "parent": "node_23_1625251483277",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Credentials:IBM || $CompanyCred:IBM",
+      "dialog_node": "node_24_1625251483278",
+      "previous_sibling": "node_26_1625251483278"
+    },
+    {
+      "type": "standard",
+      "title": "Company Name Capture",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "Company": "<? input.text.substring(0).toUpperCase() ?>",
+        "CompanyNameDisplay": "<? input.text.substring(0, 1).toUpperCase() + input.text.substring(1) ?>"
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1625256001646"
+      },
+      "conditions": "true",
+      "dialog_node": "node_24_1625370995616",
+      "previous_sibling": "node_4_1621608649432"
+    },
+    {
+      "type": "standard",
+      "title": "Question - If you were an animal",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:Animal || $Interviewquestions:animal",
+      "dialog_node": "node_25_1625787751726",
+      "previous_sibling": "node_23_1625787671030"
+    },
+    {
+      "type": "standard",
+      "title": "Credential - Google",
+      "output": {},
+      "parent": "node_23_1625251483277",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Credentials:Google || $CompanyCred:Google",
+      "dialog_node": "node_26_1625251483278"
+    },
+    {
+      "type": "standard",
+      "title": "Credentials - Scrum",
+      "output": {},
+      "parent": "node_23_1625251483277",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Credentials:Scrum || $CompanyCred:Scrum",
+      "dialog_node": "node_28_1625251483278",
+      "previous_sibling": "node_24_1625251483278"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Management",
+      "parent": "node_15_1625069208436",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Skills:Management",
+      "dialog_node": "node_3_1625152866317"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Communication",
+      "output": {},
+      "parent": "node_15_1625069208436",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Skills:Communication",
+      "dialog_node": "node_3_1625164369830",
+      "previous_sibling": "node_1_1625164367353"
+    },
+    {
+      "type": "standard",
+      "title": "IBM Design Thinking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Much of the way people design products resembles a drill Sargent delivering orders, we are designing X, for X and they will buy it because of X, and they do all of this without ever talking to their customer. This is ridiculous and precisely why Brandon is constantly taking courses like IBM design thinking. It costs a lot of money to build new products, and design thinking help reduces the risk of failure but iterating with the customer throughout the process. This way when the team gets off track the customer is right there to say something like \"I really would not use a feature like X\" and the team can quickly pivot into value-adding features.\n<br>\nThe Design Thinking Process helps Brandon in every one of his projects. This process helps him to be more productive, make smart decisions, and it reminds him to stay humble (always listening to the customer). "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": false,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_24_1625251483278",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_24_1625251483278"
+      },
+      "conditions": "@Certificates:(Design Thinking) || $Certificates:(Design Thinking)",
+      "dialog_node": "node_3_1625694647617",
+      "previous_sibling": "node_2_1625261053269"
+    },
+    {
+      "type": "standard",
+      "title": "Scrum - Scrum Master",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Though Brandon knew how to design, execute, and analyze Scrum tasks independently, he also felt a responsibility to help his team understand these methodologies. That way he could teach his team about the importance of staying agile, iterating quickly, by training them on how they can improve development speed. To learn and practice the skills he needed to become a Scrum Master Brandon took an online course, read books, and practiced with real teams. Finally, Brandon took and passed his Scrum Master exam."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_28_1625251483278",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_28_1625251483278"
+      },
+      "conditions": "@Certificates:(Scrum Master) || $Certificates:(Scrum Master)",
+      "dialog_node": "node_3_1625694753551",
+      "previous_sibling": "node_9_1625694761990"
+    },
+    {
+      "type": "standard",
+      "title": "Companies to work for! - Accenture",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@MenuHeader:WorkFor && $Company:ACCENTURE",
+      "digress_in": "not_available",
+      "dialog_node": "node_35_1626715759425",
+      "previous_sibling": "node_17_1626712842476"
+    },
+    {
+      "type": "standard",
+      "title": "Curiosity and Innovative Thinking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is an innovative thinker who can come up with new ways to solve problems. He's always looking for solutions that leave his clients happy--they're the reason he does what he does! This drive has pushed Brandon to develop personal projects like me \"Brandy\" a proof of concept Ai chatbot that is designed to advocate for potential Candidates, ideas, or beliefs. This passion for finding innovative ways to solve problems is something that would benefit Accenture, as they work to find new ways to implement Ai into other corporations!\n<br>\nFor instance, what if Accenture gave managers at companies the ability to easily create chatbots like me that would give simple instructions to basic processes. Even if this saved a manager just one hour a day answering how-to emails, the company would save an incredible $18,250+ per manager each year. This could mean millions of dollars a year in savings.\n<br>\nIt's this kind of innovative thinking that makes Brandon the type of employee who adds value every day, on every project he works on!\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_35_1626715759425",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_35_1626715759425"
+      },
+      "conditions": "@Reasons:(Innovative Thinking) && $Company:ACCENTURE",
+      "dialog_node": "node_36_1626715759427"
+    },
+    {
+      "type": "standard",
+      "title": "Passion For Ai",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Brandon work is more than about just showing up for the 9-5 and then checking out. Work is about being given the opportunity to solve complex and interesting problems that can improve the world. Accenture would give Brandon the opportunity to work on projects he loves in a variety of industries! \n<br>\nWorking on what he passionate about is important because when Brandon gets to work on projects that he's passionate about he performs at his peak. He is dedicated and conscientious, he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n<br>\nWorking at Accenture would allow Brandon to work with numerous companies to drive valuable results using Ai. Brandon is fascinated in exploring the implementation of Ai in many areas such as robotics, business, and customer service, etc. He wants to get involved in leading AI projects in new and innovative ways that can create value for clients on a global scale. Brandon feels that no company provides him with the opportunity to make a greater impact than Accenture from his point of view.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_35_1626715759425",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_35_1626715759425"
+      },
+      "conditions": "@Reasons:(Passion for AI) && $Company:ACCENTURE",
+      "dialog_node": "node_37_1626715759427",
+      "previous_sibling": "node_36_1626715759427"
+    },
+    {
+      "type": "standard",
+      "title": "Data and Analytics Minded",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is also a very data and analytics-minded person who prefers to make decisions based on his collected data. He learned to make decisions this way after running an e-commerce business that required him to analyze large amounts of search data and utilize that data to drive revenue for his business. Brandon loves seeing how Machine Learning & Deep Learning can uncover hidden insights from disparate data points.\n<br>\nThis love for using data to drive business decisions leads him to apply to Accenture, a leader in Data Analytics, Machine Learn, and Ai applications. He believes that working at Accenture will allow him to utilize his data, analytics, and Ai analytic skills to drive business value and improve people's lives worldwide. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 5000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_35_1626715759425",
+      "context": {},
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_35_1626715759425"
+      },
+      "conditions": "@Reasons:(Data and analytics) && $Company:ACCENTURE",
+      "dialog_node": "node_38_1626715759427",
+      "previous_sibling": "node_37_1626715759427"
+    },
+    {
+      "type": "standard",
+      "title": "Main Menu Redirect",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_35_1626715759425",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1625252660823"
+      },
+      "conditions": "@MenuHeader:(Main Menu)",
+      "dialog_node": "node_40_1626715759427",
+      "previous_sibling": "node_38_1626715759427"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome. Please let me know if you need anything else."
+              },
+              {
+                "text": "My pleasure."
+              },
+              {
+                "text": "No problem. Let me know if there is anything else I can help with."
+              },
+              {
+                "text": "I aim to please."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1621539070551",
+      "conditions": "#Thank_You",
+      "dialog_node": "node_4_1621539602434",
+      "previous_sibling": "node_5_1621539151758"
+    },
+    {
+      "type": "standard",
+      "title": "Name Collect",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "And what company do you work for $name?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "name": "<? input.text.substring(0, 1).toUpperCase() + input.text.substring(1) ?>"
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_24_1625370995616"
+      },
+      "conditions": "true",
+      "dialog_node": "node_4_1621608649432",
+      "previous_sibling": "slot_2_1626360545106"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Management",
+      "output": {},
+      "parent": "node_1_1625250975953",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Recommendations:(Bernard Bell)",
+      "dialog_node": "node_4_1625250975954",
+      "previous_sibling": "node_2_1625250975954"
+    },
+    {
+      "type": "standard",
+      "title": "Question - What can you do for us that other candidates can't?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:(Why are you special) || $Interviewquestions:(Why are you special)",
+      "dialog_node": "node_4_1625786864521",
+      "previous_sibling": "node_2_1625786864521"
+    },
+    {
+      "type": "standard",
+      "title": "Main Menu Redirect",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_14_1625758438818",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1625252660823"
+      },
+      "conditions": "@MenuHeader:(Main Menu)",
+      "dialog_node": "node_4_1626715015607",
+      "previous_sibling": "node_17_1625758438820"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there. How can I help you?"
+              },
+              {
+                "text": "Hello, How may I assist you today?"
+              },
+              {
+                "text": "Hi. What Can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1621539070551",
+      "conditions": "#greeting",
+      "dialog_node": "node_5_1621539151758"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Full List",
+      "parent": "node_15_1625069208436",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Skills:(Full List)",
+      "dialog_node": "node_5_1625153762047",
+      "previous_sibling": "node_3_1625164369830"
+    },
+    {
+      "type": "standard",
+      "title": "Resume Download",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here you go! Click this link to download Brandon's Resume: <a  target=\"_blank\" href=\"https://drive.google.com/file/d/1WkcM3uAWsa3UiF_4TbLoK4c4BPD75-sm/view?usp=sharing.br\">Resume</a><br/><br/>"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 9000,
+            "typing": false,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "context": {
+        "Intro": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1625256001646"
+      },
+      "conditions": "#DownloadResume || $Intro:resume || @MenuHeader:Skillset",
+      "dialog_node": "node_5_1626364013424",
+      "previous_sibling": "node_35_1626715759425"
+    },
+    {
+      "type": "standard",
+      "title": "Question - Three positive things your last boss would say about you?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:positive || $Interviewquestions:positive",
+      "dialog_node": "node_6_1625786864521",
+      "previous_sibling": "node_4_1625786864521"
+    },
+    {
+      "type": "standard",
+      "title": "Skill - Agile",
+      "parent": "node_15_1625069208436",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Skills:Agile",
+      "dialog_node": "node_7_1625090252168",
+      "previous_sibling": "node_3_1625152866317"
+    },
+    {
+      "type": "standard",
+      "title": "Main_Menu",
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Main_Menu || true",
+      "dialog_node": "node_8_1625256001646",
+      "previous_sibling": "node_24_1625370995616"
+    },
+    {
+      "type": "standard",
+      "title": "Question - When were you most satisfied in your job?",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@InterviewQuestions:satisfied || $Interviewquestions:satisfied",
+      "dialog_node": "node_8_1625786864521",
+      "previous_sibling": "node_6_1625786864521"
+    },
+    {
+      "type": "standard",
+      "title": "Error 404 Joke",
+      "parent": "node_1_1625786864518",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "true || $Joke != \"404gif\"",
+      "dialog_node": "node_8_1626117579442",
+      "previous_sibling": "node_25_1625787751726"
+    },
+    {
+      "type": "standard",
+      "title": "Main Menu - Redirect",
+      "output": {
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1625256001646"
+      },
+      "conditions": "#Main_Menu",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1625252660823",
+      "previous_sibling": "node_1_1621539070551"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon has always wanted to build incredible products that change the world, and to do that he needed to learn the skills to lead a team. After deciding to study scrum Brandon quickly realized that he needed to learn more. To learn the skills of a Product owner he read books, took courses from Google and IBM, and practiced with real products. After learning how to build stories into sprints Brandon went on to complete his Product Owner Certificate from Srum.org."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_28_1625251483278",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_28_1625251483278"
+      },
+      "conditions": "@Certificates:(Scrum Product Owner) || $Certificates:(Product Owner)",
+      "dialog_node": "node_9_1625694761990"
+    },
+    {
+      "type": "standard",
+      "title": "Main Menu redirect",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_17_1626712842476",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1625256001646"
+      },
+      "conditions": "@MenuHeader:(Main Menu)",
+      "dialog_node": "node_9_1626716396617",
+      "previous_sibling": "node_20_1626712842477"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1625256001646",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1626364013424"
+      },
+      "conditions": "$Intro:Resume",
+      "dialog_node": "response_10_1626365973830",
+      "previous_sibling": "response_2_1626365972634"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon's 5-year goal is to learn as much as possible about how Ai can be applied in business situations by working with industry experts who have experience implementing Ai for their Company. He also wants to provide educational resources for people who are struggling when it comes to applying the Ai and ML technology."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_10_1625786864521",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:Goals",
+      "dialog_node": "response_11_1625786864521"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Two years ago, Bradon found himself feeling frustrated with his projects in academic life, professional life. He would always take on too much until project creep became an issue. Additionally, if Brandon was here you would tell you how much he disliked making lists, saying something dumb like \"Why make a list when you could take ACTION\". Luckily, for brandon he also has a personality that works to build better habits.\n<br>\nRealizing his struggle Brandon set out to change his project management style and find a project management system that worked! After researching various PM methodologies, he decided to dig deeper into Scrum. Scrum provides both flexibility and structure. As a project management methodology, it would allow Brandon to handle change effectively as well as avoid missing important tasks. Brandon quickly committed to and adopted the five values of Scrum. He earned his Product Owner and Scrum Master certificates at his own expense. Dedicating himself to commit to managing projects with courage, commitment, focus, openness, and respect.\n<br>\nAgile means more than just a piece of paper and some cool buzzwords; Agile is about quickly iterating through problems, creating goals, and keeping projects on track through the storm. It is about open communication and a team focus on deliverables. Since taking his Scrum exams, Brandon has successfully managed projects in an Agile fashion to complete deliverables in a time frame that most people believed was impossible! Most recently completing a student yearbook from idea to printed copies in 3 weeks."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_7_1625090252168",
+      "context": {
+        "Agile": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "@Skills:Agile",
+      "dialog_node": "response_1_1625162692307"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Give that you are talking to an AI chatbot it should come as no surprise that Brandon has spent a great deal of time learning about AI from industry leader IBM!   He has spent time learning and applying skillsets around AI including how to use Watson, natural language processing, and apply AI to business. As well as learning about how IBM uses Garage and Design Thinking to work with customers to implement AI to different business scenarios through an iterative process called the Loop."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Learn more about:",
+            "options": [
+              {
+                "label": "IBM Ai Foundations",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(AI Foundations)"
+                  }
+                }
+              },
+              {
+                "label": "IBM Design Thinking",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Design Thinking)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_24_1625251483278",
+      "conditions": "#Credentials",
+      "dialog_node": "response_1_1625260861183",
+      "previous_sibling": "response_8_1625260849840"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "source": "https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif",
+            "description": "Error 404",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Uhhh beep, boop, bop, error….. error. Okay, maybe not any interview questions. Here is a list of eight common interview questions that I can answer."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 4000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_8_1626117579442",
+      "context": {
+        "Joke": "404gif"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "$Joke != \"404gif\"",
+      "dialog_node": "response_1_1626117793245",
+      "previous_sibling": "response_2_1626142420544"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1626117579442",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "$Joke = \"404gif\"",
+      "dialog_node": "response_1_1626134149445",
+      "previous_sibling": "response_1_1626117793245"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Brandon work is more than about just showing up for the 9-5 and then checking out. Work is about being given the opportunity to solve complex and interesting problems that can improve the world. Accenture would give Brandon the opportunity to work on projects he loves in a variety of industries! \n\nWorking on what he passionate about is important because when Brandon gets to work on projects that he's passionate about he performs at his peak. He is dedicated and conscientious, he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n\nWorking at Accenture would allow Brandon to work with numerous companies to drive valuable results using Ai. Brandon is fascinated in exploring the implementation of Ai in many areas such as robotics, business, and customer service, etc. He wants to get involved in leading AI projects in new and innovative ways that can create value for clients on a global scale. Brandon feels that from his point of view, no company provides him with the opportunity to make a greater impact than Accenture."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_17_1625758438820",
+      "context": {
+        "Management": ""
+      },
+      "disabled": true,
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_14_1625758438818"
+      },
+      "conditions": "@Reasons:(Loves Work)",
+      "dialog_node": "response_18_1625758438820"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Would you like to learn about who else recommends Brandon?",
+            "options": [
+              {
+                "label": "What Tom Collopy Startup Guru has to say!",
+                "value": {
+                  "input": {
+                    "text": "@Recommendations:(Tom Collopy)"
+                  }
+                }
+              },
+              {
+                "label": "What Bernard Bell SEO and Founder of TV network as to say!",
+                "value": {
+                  "input": {
+                    "text": "@Recommendations:(Bernard Bell)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1625250975953",
+      "conditions": "@Recommendations",
+      "dialog_node": "response_21_1625250975955",
+      "previous_sibling": "node_4_1625250975954"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Here is the list of interview questions that I can answer:",
+            "options": [
+              {
+                "label": "What are Brandon’s weaknesses?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:weaknesses"
+                  }
+                }
+              },
+              {
+                "label": "What can Brandon that other candidates cannot?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:(why are you special)"
+                  }
+                }
+              },
+              {
+                "label": "What are three positive things that Brandon’s last boss would say about him?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:positive"
+                  }
+                }
+              },
+              {
+                "label": "When is Brandon most satisfied in his job?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:satisfied"
+                  }
+                }
+              },
+              {
+                "label": "What are Brandon’s 5-year goals?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:goals"
+                  }
+                }
+              },
+              {
+                "label": "Why should I hire Brandon?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:(Why should we hire you)"
+                  }
+                }
+              },
+              {
+                "label": "If Brandon was an animal, what animal would you be?",
+                "value": {
+                  "input": {
+                    "text": "$Interviewquestions:animal"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1625786864518",
+      "context": {
+        "Interviewquestions": ""
+      },
+      "conditions": "@InterviewQuestions || $Joke:(404gif)",
+      "dialog_node": "response_21_1625786864521",
+      "previous_sibling": "node_8_1626117579442"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Brandon work is more than about just showing up for the 9-5 and then checking out. Work is about being given the opportunity to solve complex and interesting problems that can improve the world. Accenture would give Brandon the opportunity to work on projects he loves in a variety of industries! \n\nWorking on what he passionate about is important because when Brandon gets to work on projects that he's passionate about he performs at his peak. He is dedicated and conscientious, he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n\nWorking at Accenture would allow Brandon to work with numerous companies to drive valuable results using Ai. Brandon is fascinated in exploring the implementation of Ai in many areas such as robotics, business, and customer service, etc. He wants to get involved in leading AI projects in new and innovative ways that can create value for clients on a global scale. Brandon feels that from his point of view, no company provides him with the opportunity to make a greater impact than Accenture."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_20_1626712842477",
+      "context": {
+        "Management": ""
+      },
+      "disabled": true,
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_17_1626712842476"
+      },
+      "conditions": "@Reasons:(Loves Work)",
+      "dialog_node": "response_21_1626712842477"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There are few skills Brandon has that come even close to his ability to self-start. I mean, I know I am an AI designed to talk about Brandon, but daaaang does he get started quickly. Think about it; you are talking to an artificially created chatbot that is purely designed to give you a different way to experience learning about what makes a candidate special. Brandon thinks that AI like me, and robotics are the future to solving some of the world's most complex and challenging problems. Now, does he wait around someone else to tell him what to do, tell him what to create? No, he got out there and created me to prove that he is passionate about AI and gain hands-on experience with how AI can be used. If that does not say self-starter, then I don't know what does."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_1_1625164367353",
+      "context": {
+        "self-starter": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "@Skills:Self-Starter",
+      "dialog_node": "response_2_1625164367354"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1626117579442",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1625256001646"
+      },
+      "conditions": "#Main_Menu",
+      "dialog_node": "response_2_1626142420544",
+      "previous_sibling": "slot_4_1626117865744"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625153762047",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "$Joke:skillsjoke",
+      "dialog_node": "response_2_1626274304119",
+      "previous_sibling": "response_9_1625155192026"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1625256001646",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625250975953"
+      },
+      "conditions": "$Intro:Recommendations",
+      "dialog_node": "response_2_1626365972634",
+      "previous_sibling": "response_5_1626361151185"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If there is one thing that's important to Brandon is creating value for the people he works with. So it's no wonder that everyone who has worked for Brandon has had stellar things to say about him! Though Brandon being who is only recently start collecting these comments so are some of the people who have recommended Brandon!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Brandon's Letters of Recommendation",
+            "options": [
+              {
+                "label": "What Tom Collopy Startup Guru has to say!",
+                "value": {
+                  "input": {
+                    "text": "@Recommendations:(Tom Collopy)"
+                  }
+                }
+              },
+              {
+                "label": "What Bernard Bell SEO and Founder of a TV network as to say!",
+                "value": {
+                  "input": {
+                    "text": "@Recommendations:(Bernard Bell)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1625250975953",
+      "context": {
+        "Intro": null
+      },
+      "conditions": "#Recommends || $Intro:Recommendations",
+      "dialog_node": "response_22_1625250975955",
+      "previous_sibling": "response_21_1625250975955"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "As a hyper-advanced Ai, I can answer any question you could possibly think to ask Brandon in an interview! Ask me any interview question!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1625786864518",
+      "context": {
+        "Joke": ""
+      },
+      "conditions": "#CommonQuestions",
+      "dialog_node": "response_22_1625786864521",
+      "previous_sibling": "response_21_1625786864521"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You should hire Brandon because he is the type of employee who is always looking to create value wherever he works. To him, a Job is more than just work; it's a place where he can explore new paths to value creation, a place where he finds new problems and creative solutions for Brandon. A job is not to work; it's passion!\n<br>\nBecause he passionate about his work Brandon always gives his all, always happy (well, mostly, let's be honest), and thoroughly enjoys working with others!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_23_1625787671030",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:(Why should we hire you)",
+      "dialog_node": "response_24_1625787671031"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If Brandon was an animal, he would be a fox. Foxes are adaptive creatures, and in new situations, they do not tackle problems head-on but instead choose to find clever ways to solve them. They also tend to be cunning and bold, just like Brandon!\n<br>\nBrandon is the type of person who always has something on his mind. He's curious about everything he sees around him and loves finding solutions for any problem that arises. When it comes down to it, and like a fox, Brandon knows his wit to get him out of any situation.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_25_1625787751726",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:Animal",
+      "dialog_node": "response_26_1625787751726"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Google is one of the best companies at managing teams and projects. That is why when Brandon set out to take a course and learn more about Project Manage he chose the Google Project Management course. Over the course of this 120-hour train program, Brandon completed dozens of tasks and deliverables that gave him hands-on experience creating SMART goals, burn-down charts, RACI charts, and dozen of other tools used to manage a mock business project. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_26_1625251483278",
+      "context": {
+        "Google": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_23_1625251483277"
+      },
+      "conditions": "@Credentials:Google",
+      "dialog_node": "response_27_1625251483278"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you, $name. Here are some of the topics people tend to like asking about.\n<br>\nHere some basic things I can tell you about:\n1 - Brandons Skillset\n2 - Who recommends Brandon\n3 - Credientails that Brandon has earned"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1625370995616",
+      "context": {
+        "name": "<? input.text.substring(0, 1).toUpperCase() + input.text.substring(1) ?>"
+      },
+      "disabled": true,
+      "dialog_node": "response_28_1625370995619"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Now let's explore how Brandon would be a great fit at SAS",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_14_1625758438818",
+      "conditions": "@Reasons",
+      "dialog_node": "response_28_1625758438820",
+      "previous_sibling": "node_4_1626715015607"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "What other Scrum credentials would you like to hear about!",
+            "options": [
+              {
+                "label": "Tell me about the Product Owner Certificate",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Product Owner)"
+                  }
+                }
+              },
+              {
+                "label": "Tell me about the Scrum Master Certificate",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Scrum Master)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_28_1625251483278",
+      "context": {},
+      "conditions": "@Credentials:Scrum || @Certificates",
+      "dialog_node": "response_29_1625251483278",
+      "previous_sibling": "node_3_1625694753551"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for giving me the opportunity to tell you why Brandon would be a great candidate for SAS. As an AI machine myself I can tell you that Brandon puts a lot of time and effort into finding new and innovative ways to use Ai. You see, Brandon has a desire to drive value for his clients and for society through the creative use of AI and it's that desire that has lead him to apply to SAS (a leader in AI).\n<br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Now let's explore how Brandon would be a great fit at SAS",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_14_1625758438818",
+      "context": {},
+      "conditions": "#Workfor",
+      "dialog_node": "response_29_1625758438820",
+      "previous_sibling": "response_28_1625758438820"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Let's look at the other reasons Brandon would be a good fit at $CompanyNameDisplay",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_17_1626712842476",
+      "conditions": "@Reasons",
+      "dialog_node": "response_31_1626712842477",
+      "previous_sibling": "node_9_1626716396617"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tom Collopy is a man who started his career by working for IBM's internal startup making semiconductors. Since then Tom has spent the past 20 years working in the startup space having Co-founded two startups and has been an advisor to two Dozens of Startups. Today is working on a new startup that aims to help startup validate their market and reduce the chance of failing.\n<br>\nThis is what Tom had to say about Brandon:\n<br>\n\"Are you looking for someone who will take responsibility? Do what it takes to get the job done? Figure out how to learn what's needed? Come to you with both the problem and proposed solutions? That's Brandon as my teaching assistant in the Entrepreneurship Class I teach at UNC. I selected Brandon from my Spring '20 class and asked him to be my TA. He has helped me revamp the syllabus, manage the class and provide support to the students. I would hire Brandon. If you are considering doing so you won't be disappointed.\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_2_1625250975954",
+      "context": {
+        "Tom_Collopy": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625250975953"
+      },
+      "conditions": "@Recommendations:(Tom Collopy)",
+      "dialog_node": "response_3_1625250975954"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon's great weakness tends to his dyslexic, as long-form written communication can often be an exhausting endeavor. Missing letters and occasional misspellings are usually easy to overcome using spell-checking tools such as Grammarly. The best way to eliminate the problem is by being honest with my teammates and letting them know that I will need help with editorial work and that he is always willing to pitch in elsewhere."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_2_1625786864521",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:Weaknesses",
+      "dialog_node": "response_3_1625786864521"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! My name is Brandy, I am an IBM Watson Powered Chatbot that was created to advocate and promote Brandon Coates and talk about what makes him so incredible. \n<br> \nBut I am heading ahead of myself! What is your name?:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "true",
+      "dialog_node": "response_3_1626361223117",
+      "previous_sibling": "response_3_1626363834243"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! My name is Brandy, I am an IBM Watson Powered Chatbot that was created to assist Brandon. I would be happy to get you a copy of Brandon's resume.\n<br>\nBefore I take you there can I get your name?:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "Intro": "Resume"
+      },
+      "conditions": "@MenuHeader:Resume",
+      "dialog_node": "response_3_1626363834243",
+      "previous_sibling": "response_8_1626360897857"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for giving me the opportunity to tell you why Brandon would be a great candidate for IBM. As an AI machine myself I can tell you that Brandon puts a lot of time and effort into finding new and innovative ways to use Ai. You see, Brandon has a desire to drive value for his clients and for society through the creative use of AI and it's that desire that has lead him to apply to IBM (a leader in AI)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Now let's explore how Brandon would be a great fit at $CompanyDisplayName",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_17_1626712842476",
+      "context": {},
+      "conditions": "#Workfor",
+      "dialog_node": "response_32_1626712842477",
+      "previous_sibling": "response_31_1626712842477"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Brandon work is more than about just showing up for the 9-5 and then checking out. Work is about being given the opportunity to solve complex and interesting problems that can improve the world. Accenture would give Brandon the opportunity to work on projects he loves in a variety of industries! \n\nWorking on what he passionate about is important because when Brandon gets to work on projects that he's passionate about he performs at his peak. He is dedicated and conscientious, he is thoughtful and careful in his work, he pushes himself to the limits of what he can do. \n\nWorking at Accenture would allow Brandon to work with numerous companies to drive valuable results using Ai. Brandon is fascinated in exploring the implementation of Ai in many areas such as robotics, business, and customer service, etc. He wants to get involved in leading AI projects in new and innovative ways that can create value for clients on a global scale. Brandon feels that from his point of view, no company provides him with the opportunity to make a greater impact than Accenture."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_38_1626715759427",
+      "context": {
+        "Management": ""
+      },
+      "disabled": true,
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_35_1626715759425"
+      },
+      "conditions": "@Reasons:(Loves Work)",
+      "dialog_node": "response_39_1626715759427"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Did you want to learn about Brandon's other skills?",
+            "options": [
+              {
+                "label": "Project Management",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Management"
+                  }
+                }
+              },
+              {
+                "label": "Agile Methodologies ",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Agile"
+                  }
+                }
+              },
+              {
+                "label": "Self-Starting Expert",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Self-Starter"
+                  }
+                }
+              },
+              {
+                "label": "Empathetic Communication",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Communication"
+                  }
+                }
+              },
+              {
+                "label": "The full list of Brandons skills! ",
+                "value": {
+                  "input": {
+                    "text": "@Skills:(Full List)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1625069208436",
+      "conditions": "@Skills",
+      "dialog_node": "response_4_1625158918682",
+      "previous_sibling": "node_5_1625153762047"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The backbone of any society is communication, and so Brandon spends considerable time thinking about how he communicates with others. He has excellent listening skills, which allows him to be a good conversationalist and leader by genuinely understanding his team members and clients.\n<br>\nAdditionally, Brandon's communication skills allow him to find the underlying issues his clients face. By paying close attention and getting a clear understanding of what they do, what they need, and what their goals are. He can then continue to work with clients collaboratively to find solutions for their most pressing problems.\n<br>\nLastly, Brandon wants to bring a more human element to AI. That's why I was created with a personality, a name, and some sass. Though I am new and my personality is still developing, I will always put the best foot forward to make Brandon look good!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1625164369830",
+      "context": {
+        "communication": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "@Skills:Communication",
+      "dialog_node": "response_4_1625164369831"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "What other credentials would you like to explore?",
+            "options": [
+              {
+                "label": "Google Certificates ",
+                "value": {
+                  "input": {
+                    "text": "$CompanyCred:Google"
+                  }
+                }
+              },
+              {
+                "label": "IBM Certificates ",
+                "value": {
+                  "input": {
+                    "text": "$CompanyCred:IBM"
+                  }
+                }
+              },
+              {
+                "label": "SCRUM Certificates ",
+                "value": {
+                  "input": {
+                    "text": "$CompanyCred:Scrum"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_23_1625251483277",
+      "conditions": "@Credentials",
+      "dialog_node": "response_43_1625251483278",
+      "previous_sibling": "node_28_1625251483278"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is a habitual learner. In the past, he's taken up coding, project management, and even woodworking in order to make himself more well-rounded. He has always worked to pick up new skills and talents that are transferable to other parts of his life; after discovering that he could take courses from top companies he set out to learn a new set of skills from masters in their field. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "If you would like to learn more about these courses and the credentials they have provided him just let me know!",
+            "options": [
+              {
+                "label": "Learn about Brandon's experience with Google",
+                "value": {
+                  "input": {
+                    "text": "@Credentials:Google"
+                  }
+                }
+              },
+              {
+                "label": "IBM's Design Think and AI courses",
+                "value": {
+                  "input": {
+                    "text": "@Credentials:IBM"
+                  }
+                }
+              },
+              {
+                "label": "Take PM work to the next level with Scrum",
+                "value": {
+                  "input": {
+                    "text": "@Credentials:Scrum"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_23_1625251483277",
+      "conditions": "#Credentials",
+      "dialog_node": "response_44_1625251483278",
+      "previous_sibling": "response_43_1625251483278"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Now let's explore how Brandon would be a great fit at Accenture",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_35_1626715759425",
+      "conditions": "@Reasons",
+      "dialog_node": "response_50_1626715759427",
+      "previous_sibling": "node_40_1626715759427"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for allowing me to tell you why Brandon would be a great candidate for Accenture. As an AI machine myself, I can tell you that Brandon puts a lot of time and effort into finding new and innovative ways to use Ai. Brandon has a desire to drive value for corporations and society through the creative use of AI. In my opinion, he would make an excellent addition to the Accenture team."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Now let's explore how Brandon would be a great fit at Accenture",
+            "options": [
+              {
+                "label": "Curiosity and Innovative Thinking",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Curiosity and Innovative Thinking)"
+                  }
+                }
+              },
+              {
+                "label": "Passion For Ai",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Passion For Ai)"
+                  }
+                }
+              },
+              {
+                "label": "Data and Analytics Minded",
+                "value": {
+                  "input": {
+                    "text": "@Reason:(Data and Analytics Minded)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:(Main Menu)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_35_1626715759425",
+      "context": {},
+      "conditions": "#Workfor",
+      "dialog_node": "response_51_1626715759427",
+      "previous_sibling": "response_50_1626715759427"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "After months of persistence, Brandon was able to convince the Shuford Director and restart the student leadership program, \"The Shuford Ambassador's.\" Time was very limited for him to have a lasting impact on the program.\n<br>\nAfter pitching several ideas to the other ambassadors, one finally caught their eye. The idea was a yearbook that would celebrate the graduating students and highlight all of the value donors were making possible.\n<br>\nWith just three weeks until graduation, the Ambassadors had a lot of work to do. Brandon polled everyone’s skills and started delegating tasks. First things first: he defined the project scope, create documents for tracking various tasks (the 165 students' names and photos, deciding a yearbook design, contacting content writers), and lastly deliver the printed copies before the graduation event.\n<br>\nThroughout the project, there were ups, there were downs, but through a heroic level of teamwork, the project was completed! The final prints were delivered in time for the event and received praise from heads of departments and donors.\n<br>\nIn the end, the project achieved the two primary goals #1 create a valuable marketing piece to attract donors, and #2 created a system that could be used for the creation of future yearbooks."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_3_1625152866317",
+      "context": {
+        "Management": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "@Skills:Management",
+      "dialog_node": "response_5_1625163069342"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bernard Bell has had a distinguished career in television as a founding member of TV One, where he oversaw the network's growth for 0-34 million subscribers and generating over 400 million dollars in revenue. Bernard has taught entrepreneurship at UNC-Chapel Hill in North Carolina and serves as the Executive Director of the Shuford Program in Entrepreneurship. Well, simultaneously running his own TV consulting business.\n<br>\nBernard had this to say about Brandon:\n<br>\n\"I've worked with Brandon for five months, and in those five months, I've seen him quickly take the initiative, pitch new ideas, and manage projects to completion. He is thoughtful, inquisitive, entrepreneurial in his thinking, and also has the ability to manage the complex relationships of students, faculty, and leadership quite nimbly. Brandon initiated the idea of designing the inaugural Shuford yearbook, and he attacked this initiative with the same thoughtfulness and insight that I have seen with his other projects. Brandon went beyond the scope of his team and made the Shuford program look first-class to our donors and other stakeholders. Brandon's leadership coupled with his fast, agile and collaborative manner drove the Shuford Ambassadors to places they would not have otherwise achieved in the short time they had. Brandon is as great a person to work with, and I only wish I had another year to work with him\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_4_1625250975954",
+      "context": {
+        "Bernard_Bell": ""
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625250975953"
+      },
+      "conditions": "@Recommendations:(Bernard Bell)",
+      "dialog_node": "response_5_1625250975954"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If there is one thing that Brandon does better than most people, it is how quickly he can adapt and adjust to new situations and information. After starting a new position, Brandon quickly takes the initiative to find ways to push his managers, department, or projects goals to the next level. He does this by learning to understand the problem, acquiring the required skills, and communicating with a teammate to develop new solutions to whatever problems he is working on!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_4_1625786864521",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:(Why are you special)",
+      "dialog_node": "response_5_1625786864521"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1625256001646",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "$Intro:Skills",
+      "dialog_node": "response_5_1626361151185"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you, $name. Here are some of the topics people tend to like asking about.\n<br>\nHere some basic things I can tell you about:\n1 - Brandons Skillset\n2 - Who recommends Brandon\n3 - Credientails that Brandon has earned"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1621608649432",
+      "context": {
+        "name": "<? input.text.substring(0, 1).toUpperCase() + input.text.substring(1) ?>"
+      },
+      "disabled": true,
+      "dialog_node": "response_7_1625254756254"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you, $name. Again my name is Brandy and to help guide you through what I know here are some common questions people like to ask about Brandon."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Here some basic things I can tell you about:",
+            "options": [
+              {
+                "label": "I can tell you about Brandon's Skillsets!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:SkillSet"
+                  }
+                }
+              },
+              {
+                "label": "Who vouches for Brandon! Hint* They are incredible people!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:Recommends"
+                  }
+                }
+              },
+              {
+                "label": "I can tell you about the credentials Brandon has earned!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:Credentials"
+                  }
+                }
+              },
+              {
+                "label": "You can also ask me interview questions!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:CommonQuestions"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "O' it's you! Brandon mentioned I should keep an eye for someone from $CompanyNameDisplay! Will you let me tell you why you should hire Brandon? Please!!",
+            "options": [
+              {
+                "label": "Tell me why I should hire Brandon!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:WorkFor"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Also as a side note, I am new at my job, so sometimes I get stuck; if that ever happens, just let me know you want to go back to the Main Menu, and I should be able to bring you back here."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625256001646",
+      "conditions": "$name && $Company:IBM || $Company:ACCENTURE || $Company:SAS",
+      "dialog_node": "response_7_1625412241256",
+      "previous_sibling": "response_10_1626365973830"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knowing he needed a better way to manage projects, Brandon set out to learn project management best practices. After finding out about agile and scrum he was hooked and have been working to master through methodologies since."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Learn more about Brandon's Scrum Certificates",
+            "options": [
+              {
+                "label": "Product Owner Certificate ",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Product Owner)"
+                  }
+                }
+              },
+              {
+                "label": "Scrum Master Certificate ",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Scrum Master)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_28_1625251483278",
+      "conditions": "#Credentials",
+      "dialog_node": "response_7_1625708596878",
+      "previous_sibling": "response_29_1625251483278"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon's last boss would tell you that he was the kind of person who uncovered problems and offered solutions to those same problems.\n<br>\nHe would say that Brandon was the type of person who fostered open communication between teams and builds up the team as a whole, rather than focusing on any individual.\n<br>\nLastly, he would say that Brandon pushed hard to find ways to add value by either working on a problem he was given or proactively looking for places at the Company where he could innovate and add value!\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_6_1625786864521",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:positive",
+      "dialog_node": "response_7_1625786864521"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would love to tell you about Brandon's Skillset. Brandon is a jack-of-all-trades with a diverse set of skills that make him excellent at solving complex problems that require a person to make disparate connections and uncover hidden gems of opportunities."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "For instance, let's explore how Brandon has used different skills in the past to drive value in some of his past work!",
+            "options": [
+              {
+                "label": "Project Management",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Management"
+                  }
+                }
+              },
+              {
+                "label": "Agile Methodologies",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Agile"
+                  }
+                }
+              },
+              {
+                "label": "Self-Starting Expert",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Self-Starter"
+                  }
+                }
+              },
+              {
+                "label": "Empathetic Communication",
+                "value": {
+                  "input": {
+                    "text": "@Skills:Communication"
+                  }
+                }
+              },
+              {
+                "label": "The full list of skills Brandons Skills!",
+                "value": {
+                  "input": {
+                    "text": "@Skills:(Full List)"
+                  }
+                }
+              },
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "#Main_Menu"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1625069208436",
+      "context": {
+        "Intro": null
+      },
+      "conditions": "#SkillSet || $Intro:Skills",
+      "dialog_node": "response_8_1625070838305",
+      "previous_sibling": "response_4_1625158918682"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What other IBM credentials you would like to hear about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Learn more about:",
+            "options": [
+              {
+                "label": "IBM AI Foundations",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(AI Foundations)"
+                  }
+                }
+              },
+              {
+                "label": "IBM Design Thinking",
+                "value": {
+                  "input": {
+                    "text": "$Certificates:(Design Thinking)"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_24_1625251483278",
+      "conditions": "@Certificates",
+      "dialog_node": "response_8_1625260849840",
+      "previous_sibling": "node_3_1625694647617"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! My name is Brandy, I am an IBM Watson Powered Chatbot that was created to assist Brandon. I would be happy to tell you about his skillset!\n<br>\nBefore I take you there can I get your name?:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "Intro": "Skills"
+      },
+      "conditions": "#SkillSet",
+      "dialog_node": "response_8_1626360876242"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! My name is Brandy, I am an IBM Watson Powered Chatbot that was created to assist Brandon. I would be happy to tell you about the people who recommend Brandon.\n<br>\nBefore I take you there can I get your name?:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "Intro": "Recommendations"
+      },
+      "conditions": "#Recommends",
+      "dialog_node": "response_8_1626360897857",
+      "previous_sibling": "response_8_1626360876242"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Shoot, you are on to me; Brandon does not have any other skills; HE ONLY HAS FOUR SKILLS!!!!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "Oh The Humanity",
+            "source": "https://media.giphy.com/media/3oEjI4of0UInTRxY3K/giphy.gif",
+            "response_type": "image"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "I am just kidding; I am just new to my job and only have limited knowledge of my creator. As time progresses, I will learn more, grow smarter, and share more with you! I am excited, and I hope you are too!\n<br>\nIn the meantime, we can explore these skills ->"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1625153762047",
+      "context": {
+        "Joke": "skillsjoke"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_15_1625069208436"
+      },
+      "conditions": "@Skills:(Full List) && $Joke != \"skillsjoke\"",
+      "dialog_node": "response_9_1625155192026"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you, $name. Again my name is Brandy and to help guide you through what I know here are some common questions people like to ask about Brandon."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Here some basic things I can tell you about:",
+            "options": [
+              {
+                "label": "I can tell you about Brandon's Skillsets.",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:SkillSet"
+                  }
+                }
+              },
+              {
+                "label": "Who vouches for Brandon! Hint* They are incredible people!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:Recommends"
+                  }
+                }
+              },
+              {
+                "label": "I can tell you about the credentials Brandon has earned.",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:Credentials"
+                  }
+                }
+              },
+              {
+                "label": "You can also ask me interview questions!",
+                "value": {
+                  "input": {
+                    "text": "@MenuHeader:InterviewQuestions"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Also as a side note, I am new at my job, so sometimes I get stuck; if that ever happens, just let me know you want to go back to the Main Menu, and I should be able to bring you back here."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625256001646",
+      "conditions": "$name",
+      "dialog_node": "response_9_1625256204416",
+      "previous_sibling": "response_7_1625412241256"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Brandon is most satisfied when he gets to work on meaningful projects, like when he was working on the student yearbook for the Shuford Program. Knowing that he was doing work that would provide value for years pushed Brandon was able to find new and creative ways to add value to the Shuford Program and he found new solutions by actively working to collect diverse options. These Brandon projects that push Brandon are also where is finds himself most satisfied."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_8_1625786864521",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1625786864518"
+      },
+      "conditions": "@InterviewQuestions:satisfied",
+      "dialog_node": "response_9_1625786864521"
+    },
+    {
+      "type": "slot",
+      "parent": "node_15_1625069208436",
+      "variable": "$Skills",
+      "dialog_node": "slot_1_1625069302274",
+      "previous_sibling": "response_8_1625070838305"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625250975953",
+      "variable": "$Skills",
+      "dialog_node": "slot_12_1625250975954",
+      "previous_sibling": "response_22_1625250975955"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "variable": "$Skills",
+      "dialog_node": "slot_12_1625786864521",
+      "previous_sibling": "response_22_1625786864521"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625250975953",
+      "variable": "$Skills",
+      "dialog_node": "slot_15_1625250975954",
+      "previous_sibling": "slot_12_1625250975954"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "variable": "$Skills",
+      "dialog_node": "slot_15_1625786864521",
+      "previous_sibling": "slot_12_1625786864521"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625250975953",
+      "dialog_node": "slot_18_1625250975955",
+      "previous_sibling": "slot_15_1625250975954"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1625786864518",
+      "dialog_node": "slot_18_1625786864521",
+      "previous_sibling": "slot_15_1625786864521"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_14_1625758438818",
+      "variable": "$Skills",
+      "dialog_node": "slot_19_1625758438820",
+      "previous_sibling": "response_29_1625758438820"
+    },
+    {
+      "type": "slot",
+      "parent": "Welcome",
+      "dialog_node": "slot_2_1626360545106",
+      "previous_sibling": "slot_5_1626360412867"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_14_1625758438818",
+      "variable": "$Skills",
+      "dialog_node": "slot_22_1625758438820",
+      "previous_sibling": "slot_19_1625758438820"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_17_1626712842476",
+      "variable": "$Skills",
+      "dialog_node": "slot_22_1626712842477",
+      "previous_sibling": "response_32_1626712842477"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_24_1625370995616",
+      "dialog_node": "slot_25_1625370995619",
+      "previous_sibling": "response_28_1625370995619"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_14_1625758438818",
+      "dialog_node": "slot_25_1625758438820",
+      "previous_sibling": "slot_22_1625758438820"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_17_1626712842476",
+      "variable": "$Skills",
+      "dialog_node": "slot_25_1626712842477",
+      "previous_sibling": "slot_22_1626712842477"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_17_1626712842476",
+      "dialog_node": "slot_28_1626712842477",
+      "previous_sibling": "slot_25_1626712842477"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_23_1625251483277",
+      "variable": "$Skills",
+      "dialog_node": "slot_34_1625251483278",
+      "previous_sibling": "response_44_1625251483278"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_23_1625251483277",
+      "variable": "$Skills",
+      "dialog_node": "slot_37_1625251483278",
+      "previous_sibling": "slot_34_1625251483278"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_23_1625251483277",
+      "dialog_node": "slot_40_1625251483278",
+      "previous_sibling": "slot_37_1625251483278"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_35_1626715759425",
+      "variable": "$Skills",
+      "dialog_node": "slot_41_1626715759427",
+      "previous_sibling": "response_51_1626715759427"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1626117579442",
+      "dialog_node": "slot_4_1626117865744"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_35_1626715759425",
+      "variable": "$Skills",
+      "dialog_node": "slot_44_1626715759427",
+      "previous_sibling": "slot_41_1626715759427"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_35_1626715759425",
+      "dialog_node": "slot_47_1626715759427",
+      "previous_sibling": "slot_44_1626715759427"
+    },
+    {
+      "type": "slot",
+      "parent": "node_15_1625069208436",
+      "dialog_node": "slot_5_1625158907482",
+      "previous_sibling": "slot_8_1625158667361"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1621608649432",
+      "dialog_node": "slot_5_1625254726493",
+      "previous_sibling": "response_7_1625254756254"
+    },
+    {
+      "type": "slot",
+      "parent": "Welcome",
+      "variable": "$Recommendations",
+      "dialog_node": "slot_5_1626360412867",
+      "previous_sibling": "slot_6_1626360291726"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Welcome",
+      "variable": "$Skills",
+      "dialog_node": "slot_6_1626360291726",
+      "previous_sibling": "response_3_1626361223117"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_24_1625251483278",
+      "variable": "$Certificate",
+      "dialog_node": "slot_7_1625258118324",
+      "previous_sibling": "response_1_1625260861183"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_15_1625069208436",
+      "variable": "$Skills",
+      "dialog_node": "slot_8_1625158667361",
+      "previous_sibling": "slot_1_1625069302274"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "conversation_start",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "Brandon"
+    },
+    {
+      "text": "Google"
+    },
+    {
+      "text": "testing 123"
+    },
+    {
+      "text": "Why would Brandon Make a good hire"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Brandon's AI - Advocate Working Copy",
+  "language": "en",
+  "description": "Working Copy! v1.3 copy"
+}
