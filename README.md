@@ -13,5 +13,5 @@ It will help you get off that ground running, and its free if you complete it wi
 5. Now you can go ahead and remove all of my content and add your own.
 
 
-Note* If you have no experiece with IBM Watson Assistant then you may find it difficult to edit the feilds without the chatbot send people off into random nodes.
+Note* If you have no experiece with IBM Watson Assistant then you may find it difficult to edit the feilds without the chatbot send people off into random nodes. So I highly recommend taking the coursara course on making IBM chatbots.
 
