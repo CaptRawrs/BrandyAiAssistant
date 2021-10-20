@@ -6,6 +6,8 @@ https://www.coursera.org/learn/building-ai-powered-chatbots?skipBrowseRedirect=t
 
 It will help you get off that ground running, and its free if you complete it within 7-days (Relatively easy to do) 
 
+If you perfer a video how-to then you can watch mine here: https://youtu.be/KpsevqsUYRU
+
 1. The first thing you will need to do is to create a account with IBM to use their Watson. You can do that here: https://www.ibm.com/cloud/watson-assistant
 2. Create an Assistant - (Name it whatever you like)
 3. Create a Skill - (The name will be overwritten in the next steps, so pick whatever you like)
